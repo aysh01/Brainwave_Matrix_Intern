@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <a href="https://www.codsoft.in/internships">
-    <img src="
-      https://github.com/user-attachments/assets/7bbfb716-520e-43d2-83f2-d5c840d35fa7" width="100"/>
+    <img src="![17366750059856041383636788277197](https://github.com/user-attachments/assets/9e36f91b-fa12-44c0-96f9-d7ca9a5880ab)
+" width="100"/>
   </a><br>
     <a href="https://www.linkedin.com/posts/aayush-kantak_skillsbuild-elearning-entrylevelpositions-activity-7208417643400224769-xE3j?utm_source=share&utm_medium=member_android">
       <img src="https://img.shields.io/badge/Blog-blue?logo=dependabot" alt="Website"/>
