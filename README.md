@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     <div align="center">
-  <img src="https://github.com/aysh01/CODSOFT-ML/blob/main/CodSoft__ML.jpg" width="300" height="300"/><br>
+  <img src="https://github.com/aysh01/Brainwave_Matrix_Intern/blob/main/Offer%20Letter.jpg" width="300" height="300"/><br>
       <hr>
       <div align="left">
 :woman_technologist: This, is a <a href="https://www.linkedin.com/company/brainwave-matrix-solutions/" style="text-decoration:none;">Brainwave Matrix Solutions </a> Internship Page.<br>
