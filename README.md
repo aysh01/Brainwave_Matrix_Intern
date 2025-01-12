@@ -1,13 +1,11 @@
 <div id="header" align="center">
-  <a href="https://www.codsoft.in/internships">
-    <img src="https://images.app.goo.gl/wDYcAct8pDjkA5FY6" width="100"/>
   </a><br>
     <a href="https://www.linkedin.com/posts/aayush-kantak_skillsbuild-elearning-entrylevelpositions-activity-7208417643400224769-xE3j?utm_source=share&utm_medium=member_android">
       <img src="https://img.shields.io/badge/Blog-blue?logo=dependabot" alt="Website"/>
   </a><br>
         <img src="https://komarev.com/ghpvc/?username=aysh01&style=flat-square&color=blue" alt=""/>
 <h1>
-  CodSoft Internship | Machine Learning
+  Brainwave Matrix Solutions Internship | Data Science
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     <div align="center">
